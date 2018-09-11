@@ -1,5 +1,3 @@
-# spring-exemplo-condition
+# spring-exemplo-eventos
 
-Exemplo da funcionalidade Condition do spring
-
-Habilita um bean mediante anotação e properties
+Exemplo da funcionalidades com eventos do spring
